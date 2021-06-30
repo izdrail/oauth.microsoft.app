@@ -1,0 +1,20 @@
+{
+    "name": "lzomedia/library",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.0 || ^7.3",
+        "microsoft/microsoft-graph": "dev-dev",
+        "illuminate/support": "9.x-dev",
+        "symfony/filesystem": "5.3.x-dev"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "5.3.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "LzoMedia\\Heineken\\": "src/"
+        }
+    }
+}
