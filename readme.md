@@ -1,6 +1,6 @@
-#Oath Microsoft read emails
+# Oath Microsoft Read Emails
 
-###Create a token.txt and paste the microsoft token.
+### Create a token.txt and paste the microsoft token.
 
 ```
 php index.php
